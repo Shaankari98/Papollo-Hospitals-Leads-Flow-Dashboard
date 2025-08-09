@@ -5,11 +5,11 @@ The Papollo Hospitals: Leads Flow Dashboard is a Power BI-based healthcare analy
 
 It provides an interactive, data-driven view of hospital operations to help management make quick and informed decisions.
 
-##Screenshot
+## Screenshot
 
 https://github.com/Shaankari98/Papollo-Hospitals-Leads-Flow-Dashboard/blob/main/Screenshot%20.png
  
-🎯 Key Objectives
+## 🎯 Key Objectives
 ⦿ Monitor patient leads from admission to discharge.
 
 ⦿ Track bed occupancy across Private, General, and ICU wards.
@@ -22,7 +22,7 @@ https://github.com/Shaankari98/Papollo-Hospitals-Leads-Flow-Dashboard/blob/main/
 
 ⦿ Provide real-time insights for hospital administration and marketing teams.
 
-📊 Dashboard Features
+## 📊 Dashboard Features
 ⦿ Admission, Discharge, Follow-up & Billing Details
 
 ⦿ Displays patient admission date, discharge date, follow-up date, and total bill amount.
@@ -43,7 +43,7 @@ r
 
 ⦿ Line chart comparing billing amount and insurance coverage for tests like CT Scan, Ultrasound, MRI, Blood Test, and X-Ray.
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 ⦿ Visualization Tool: Power BI
 
 ⦿ Data Source: Hospital Management System / CRM Export (Excel or CSV)
@@ -52,7 +52,7 @@ r
 
 ⦿ Metrics Tracked: Leads, Bed Occupancy, Doctor Feedback, Diagnosis Count, Billing & Insurance Trends
 
-📌 Impact
+## 📌 Impact
 ⦿ Better Decision Making: Enables data-driven allocation of beds, doctors, and medical resources.
 
 ⦿ Operational Efficiency: Reduces manual reporting and provides real-time hospital performance insights.
