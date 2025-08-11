@@ -1,4 +1,5 @@
 # Papollo-Hospitals-Leads-Flow-Dashboard
+![image alt](https://github.com/Shaankari98/Papollo-Hospitals-Leads-Flow-Dashboard/blob/210cdb4a0900c34e44f71f2a68f96400ac54c645/Screenshot%20.png)
 Papollo Hospitals: Leads Flow Dashboard
 📌 Project Overview
 The Papollo Hospitals: Leads Flow Dashboard is a Power BI-based healthcare analytics solution designed to track, analyze, and optimize patient lead flow, hospital occupancy, billing, and diagnosis trends.
